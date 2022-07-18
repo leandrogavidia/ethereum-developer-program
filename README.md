@@ -15,6 +15,8 @@
 
 - [**Reto 2** - Salto de Web2 a Web3](./Reto%202%20-%20Salto%20de%20Web2%20a%20Web3/Reto.md)
 
+- [**Reto 3** - Infraestructura y Funcionamiento de la Ethereum Virtual Machine](./Reto%203%20-%20Infraestructura%20y%20Funcionamiento%20de%20la%20Ethereum%20Virtual%20Machine/Reto.md)
+
 <br/>
 
 ---
