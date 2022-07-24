@@ -8,4 +8,4 @@
 
 <br/>
 
-- ### [**Repositorio de la solución**](https://github.com/LeanderGS/solidity-eth-challenge)
+- ### [**Repositorio de la solución**](https://github.com/leandrogavidia/solidity-eth-challenge)
