@@ -56,7 +56,7 @@
 
 <br/>
 
-1. **[Enlace al tweet](https://twitter.com/Leander_GS/status/1543631000537808897)**
+1. **[Enlace al tweet](https://twitter.com/androgavidia/status/1543631000537808897)**
 
 <br/>
 
